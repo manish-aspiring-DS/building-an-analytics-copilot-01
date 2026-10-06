@@ -1,0 +1,15 @@
+[project]
+name = "text-sql"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "duckdb>=1.5.5",
+    "openai>=3.14.0",
+    "pandas>=3.0.5",
+    "plotly>=7.0.0",
+    "python-dotenv>=1.2.3",
+    "streamlit>=1.63.0",
+    "xlrd>=2.0.2",
+]
