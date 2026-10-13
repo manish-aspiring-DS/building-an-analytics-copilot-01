@@ -11,6 +11,13 @@ The app:
 - shows the generated SQL and validated SQL
 - asks the LLM to explain the result in plain English
 
+## Architecture
+<img width="1278" height="689" alt="image" src="https://github.com/user-attachments/assets/c95826e8-9b5e-4fbc-8bb6-defeb39f1ae3" />
+
+## System Bounderies
+<img width="1000" height="660" alt="image" src="https://github.com/user-attachments/assets/0b0e5b7b-f569-47dc-b107-55fdbbdc7802" />
+
+
 ## Tech Stack
 
 - Python
@@ -182,5 +189,5 @@ Possible enhancements:
 - add safer prompt and query validation layers
 
 
-<img width="1278" height="689" alt="image" src="https://github.com/user-attachments/assets/c95826e8-9b5e-4fbc-8bb6-defeb39f1ae3" />
+
 
