@@ -180,3 +180,7 @@ Possible enhancements:
 - add query history
 - support more database backends
 - add safer prompt and query validation layers
+
+
+<img width="1278" height="689" alt="image" src="https://github.com/user-attachments/assets/c95826e8-9b5e-4fbc-8bb6-defeb39f1ae3" />
+
